@@ -1,5 +1,5 @@
 # project name: my-first-data-analysis-repo
-baby steps
+Baby Steps
 
 #project objective :problem Statement
 
