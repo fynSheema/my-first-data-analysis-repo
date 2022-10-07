@@ -1,19 +1,19 @@
-#project name: my-first-data-analysis-repo
+# project name: my-first-data-analysis-repo
+-----
 
-
-#project objective :problem Statement
+# project objective :problem Statement
 
 ----
 
 
-#Data sourcing
+# Data sourcing
 
 
 
 ------
-#Data transformation
+# Data transformation
 
 
 
 
-#findings and recommendation
+# findings and recommendation
